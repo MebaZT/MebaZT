@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Meba Zerihun</h1>
 <h3 align="center">I am a student in Ethiopia, passionate about learning more about programming and game dev.</h3>
 
-- 🔭 I’m currently working on **Arch Server homelab/server**
+- 🔭 I’m currently working on **Arch Server/Homelab**
 
-- 🌱 I’m currently learning **CS50, CS50P**
+- 🌱 I’m currently learning **JavaScript, Python**
 
 - 👯 I’m looking to collaborate on **Python, Linux projects, Game making(Godot)**
 
