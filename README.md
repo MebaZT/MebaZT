@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Arch Server/Homelab**
 
-- 🌱 I’m currently learning **JavaScript, Python**
+- 🌱 I’m currently learning **JavaScript, Python, PHP**
 
 - 👯 I’m looking to collaborate on **Python, Linux projects, Game making(Godot)**
 
